@@ -4,4 +4,5 @@ Olá, Bem vindo ao seu livro de receitas :wave:
 
 - Strogonoff de frango
 - Pavê
+- Pudim de Leite
 
